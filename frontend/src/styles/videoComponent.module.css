@@ -1,16 +1,20 @@
 .meetVideoContainer {
     position: relative;
     height: 100vh;
-    background: rgb(1, 4, 48);
+    /* background: rgb(1, 4, 48); */
+    background-color: #242423;
 }
 
 .meetUserVideo {
     position: absolute;
-    bottom: 10vh;
-    height: 20vh;
+    bottom: 12vh;
+    height: 25vh;
     width: auto;
+    /* width: 1.0rem; */
     left: 0;
     border-radius: 20px;
+    border: 3px solid #4059ad;
+   margin-left: 3px;
 }
 
 .buttonContainers {
@@ -18,6 +22,9 @@
     width: 100vw;
     bottom: 0;
     text-align: center;
+    background-color: #00171f;
+    border-radius: 20px;
+    
 }
 
 .buttonContainers svg {
@@ -41,12 +48,17 @@
 
 .chatRoom {
     position: absolute;
-    height: 90vh;
+    height: 87vh;
     right: 0;
-    background: white;
+    background: #eae2b7;
+    /* background-color:#ffecd1; */
+
     border-radius: 10px;
     width: 30vw;
     padding-inline: 20px;
+    margin-right: 1%;
+    margin-top: 1%;
+    
 }
 
 .chatContainer {
