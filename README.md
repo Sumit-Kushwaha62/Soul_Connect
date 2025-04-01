@@ -3,7 +3,7 @@ A full stack video conferencing web application.
 
 🚀 Soul Connect - Video Conferencing App
 A web-based video conferencing application similar to Zoom, allowing users to create, join, and manage virtual meetings with real-time video, audio, and chat functionalities.
-
+---
 📌 Features
 ✔️ Video & Audio Calls – Real-time communication using WebRTC.
 ✔️ Screen Sharing – Share your screen with participants.
@@ -11,17 +11,19 @@ A web-based video conferencing application similar to Zoom, allowing users to cr
 ✔️ Room Management – Create and join meeting rooms with unique links.
 ✔️ User Authentication – Secure login and authentication (if implemented).
 ✔️ Responsive Design – Works on all devices (desktop, mobile, tablet).
+---
 
-🛠 Technologies Used
-Frontend: HTML, CSS, JavaScript
+# 🛠 Technologies Used
+## Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+## Backend: Node.js, Express.js
 
+## 
 Real-Time Communication: WebRTC, Socket.io
 
-Database: MongoDB (if user authentication is used)
+## Database: MongoDB (if user authentication is used)
 
-⚡ Installation & Setup
+# ⚡ Installation & Setup
 1️⃣ Clone the Repository
 
 git clone https://github.com/yourusername/zoom-clone.git
